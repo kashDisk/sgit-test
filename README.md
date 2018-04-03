@@ -11,3 +11,4 @@ You need to be very calm
 2. Maybe
 3. Spotify had it's IPO at $30B today!
 4. Starting with the man in the mirror, asking him to change his ways!
+5. Annie are you ok?
