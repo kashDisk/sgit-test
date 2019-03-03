@@ -1,11 +1,11 @@
 # Welcome to SomeCompany!
 
-I don't know 
+I don't know what you said.
 
 
-# Files
+# Tina Goldstein
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Is an **American** Aura working on a case in Paris!
 
 ## Create files and folders
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2Mjk5MTZdfQ==
+eyJoaXN0b3J5IjpbMzM4MzMzNjI3XX0=
 -->
