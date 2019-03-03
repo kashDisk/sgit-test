@@ -7,9 +7,9 @@ I don't know what you said.
 
 Is an **American** Aura working on a case in Paris!
 
-## Create files and folders
+## Does This Still Work?
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+The file **explorer** is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MzMzNjI3XX0=
+eyJoaXN0b3J5IjpbLTQ3NzcyODQ1LDMzODMzMzYyN119
 -->
